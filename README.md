@@ -1,10 +1,10 @@
 # NewgameWiki
 
-> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/A13612812330/GH-Handover
+> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/GHZS-Project/GH-Handover
 
 > **交给 AI Agent 复刻/运行：**把仓库链接和 [`AI_AGENT_SETUP.md`](./AI_AGENT_SETUP.md) 中的整段提示词一起发给 Agent。Agent 应自行克隆、安装、构建、启动并验证，不要只给你一份操作建议。架构和接手细节见 [`PROJECT_HANDOFF.md`](./PROJECT_HANDOFF.md)，项目规则见 [`AGENTS.md`](./AGENTS.md)。
 
-仓库地址：<https://github.com/A13612812330/GH-NewGameWIki>
+仓库地址：<https://github.com/GHZS-Project/GH-NewGameWIki>
 
 ## 项目简介
 
